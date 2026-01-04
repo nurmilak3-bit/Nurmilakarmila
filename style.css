@@ -93,7 +93,7 @@ main {
 }
 
 .grid-butoon:hover {
-    background-color: #c28277;
+    background-color: #fdc1e9;
     color: #b0183d;
     transform: translateY(-3px);
 }
